@@ -1,4 +1,4 @@
-# NLP Analysis of NFT Image Emotion Annotations
+# Background
 This project involves NLP analysis using Python and NLTK library to process data related to NFT image emotion annotations of 240 subjects.  It performs various tasks including part-of-speech classification, and de-duplication.
 
 # Project Overview
